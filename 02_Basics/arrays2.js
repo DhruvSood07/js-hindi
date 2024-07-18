@@ -10,7 +10,7 @@ const dc = ["mia", "leone", "jonny"]
 // console.log(all_heros) //same array within array
 
 const otherArr = [...marvel_heros, ...dc];
-// console.log(otherArr)
+console.log(otherArr)
 
 const anotherArry = [1,2,3 ,[4,5,6] , 7, [6,7, [4,5]]]
 
